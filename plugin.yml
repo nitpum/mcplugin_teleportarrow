@@ -1,0 +1,4 @@
+name: TeleportArrow
+author: nitpum
+main: com.nitpum.mcplugin.teleportarrow.Main
+version : 1.0
